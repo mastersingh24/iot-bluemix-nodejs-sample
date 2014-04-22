@@ -1,0 +1,12 @@
+{
+  "name": "iot-sample",
+  "version": "1.0.0",
+  "description": "Starter applications using Node.js runtime with the IoT Quickstart Service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mqtt": "^0.3.8"
+  }
+}
